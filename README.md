@@ -1,4 +1,4 @@
-# Consumer-Gooda-ad_hoc-Project
+# Consumer-Goods-ad_hoc-Project
 # Atliq ConsumerGoods SQL
 As part of the February month Codebasics resume challenge, I have written SQL queries for the given ad-hoc-requests with the detailed presentation.
 
